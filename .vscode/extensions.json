@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "Equinusocio.vsc-material-theme",
+    "vscode-icons-team.vscode-icons",
+    "esbenp.prettier-vscode",
+    "ritwickdey.LiveServer",
+    "codezombiech.gitignore",
+    "aaron-bond.better-comments"
+  ]
+}
