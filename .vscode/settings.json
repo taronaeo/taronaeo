@@ -8,13 +8,14 @@
   "editor.fontFamily": "Fira Code, Source Code Pro for Powerline",
   "editor.fontWeight": "450",
   "editor.fontLigatures": true,
+  "files.trimTrailingWhitespace": true,
   "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
   "license.author": "Aaron Teo",
   "license.default": "mit",
+  "html.format.wrapAttributes": "preserve",
   "python.formatting.provider": "autopep8",
   "python.formatting.autopep8Args": ["--indent-size=2", "--ignore=E121"],
-  "html.format.wrapAttributes": "preserve",
-  "files.trimTrailingWhitespace": true,
+  "svelte.enable-ts-plugin": true,
   "[dart]": {
     "editor.formatOnSave": true,
     "editor.formatOnType": true,
@@ -32,12 +33,12 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[html]": {
-    "editor.defaultFormatter": "vscode.html-language-features"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[python]": {
     "editor.formatOnType": true
   },
   "[javascript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
 }
